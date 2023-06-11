@@ -1,0 +1,2 @@
+This is an example string
+This is a new line
